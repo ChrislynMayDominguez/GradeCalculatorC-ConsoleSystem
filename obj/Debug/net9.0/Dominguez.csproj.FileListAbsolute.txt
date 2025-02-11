@@ -1,0 +1,14 @@
+C:\Users\pcuser\Documents\GradeCalculator\bin\Debug\net9.0\Dominguez.exe
+C:\Users\pcuser\Documents\GradeCalculator\bin\Debug\net9.0\Dominguez.deps.json
+C:\Users\pcuser\Documents\GradeCalculator\bin\Debug\net9.0\Dominguez.runtimeconfig.json
+C:\Users\pcuser\Documents\GradeCalculator\bin\Debug\net9.0\Dominguez.dll
+C:\Users\pcuser\Documents\GradeCalculator\bin\Debug\net9.0\Dominguez.pdb
+C:\Users\pcuser\Documents\GradeCalculator\obj\Debug\net9.0\Dominguez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pcuser\Documents\GradeCalculator\obj\Debug\net9.0\Dominguez.AssemblyInfoInputs.cache
+C:\Users\pcuser\Documents\GradeCalculator\obj\Debug\net9.0\Dominguez.AssemblyInfo.cs
+C:\Users\pcuser\Documents\GradeCalculator\obj\Debug\net9.0\Dominguez.csproj.CoreCompileInputs.cache
+C:\Users\pcuser\Documents\GradeCalculator\obj\Debug\net9.0\Dominguez.dll
+C:\Users\pcuser\Documents\GradeCalculator\obj\Debug\net9.0\refint\Dominguez.dll
+C:\Users\pcuser\Documents\GradeCalculator\obj\Debug\net9.0\Dominguez.pdb
+C:\Users\pcuser\Documents\GradeCalculator\obj\Debug\net9.0\Dominguez.genruntimeconfig.cache
+C:\Users\pcuser\Documents\GradeCalculator\obj\Debug\net9.0\ref\Dominguez.dll
