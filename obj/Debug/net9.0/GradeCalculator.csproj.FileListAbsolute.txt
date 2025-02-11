@@ -12,3 +12,4 @@ C:\Users\pcuser\Documents\GradeCalculator\obj\Debug\net9.0\refint\GradeCalculato
 C:\Users\pcuser\Documents\GradeCalculator\obj\Debug\net9.0\GradeCalculator.pdb
 C:\Users\pcuser\Documents\GradeCalculator\obj\Debug\net9.0\GradeCalculator.genruntimeconfig.cache
 C:\Users\pcuser\Documents\GradeCalculator\obj\Debug\net9.0\ref\GradeCalculator.dll
+C:\Users\pcuser\Documents\GradeCalculator\obj\Debug\net9.0\GradeCalculator.sourcelink.json
